@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogodi programski kod</string>
+    <string name="key_score">Rezultat:</string>
+    <string name="key_lives">Zivoti:</string>
+    <string name="key_stats">Statistika:</string>
+    <string name="key_gameOver">IGRA GOTOVA</string>
+    <string name="key_shareScore">Podijelite vas rezultat preko</string>
+    <string name="key_myscore">Moj rezultat je</string>
+    <string name="key_guessing">u pogodi programski kod</string>
+    <string name="key_shareIt">Podijeli</string>
+    <string name="key_start">Zapocni</string>
+    <string name="key_tvPlay">Igraj!</string>
+</resources>
